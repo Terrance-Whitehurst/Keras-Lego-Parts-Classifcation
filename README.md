@@ -3,6 +3,6 @@
 
 ### Dataset:
 https://www.kaggle.com/joosthazelzet/lego-brick-images
-Contains 6400 images of 16 different Lego bricks. The bricks are classified by folders. The images are computer rendered using Blender. For more info please contact me.
+### Contains 6400 images of 16 different Lego bricks. The bricks are classified by folders. The images are computer rendered using Blender. For more info please contact me.
 
 
